@@ -5,7 +5,7 @@
   - Apaixonado por tecnologia 
   - Estudando: Python e Git
   - Cursando: Sistemas de Informação
-  <img src="https://img.icons8.com/tiny-color/16/000000/experimental-code-tiny-color.png"/>
+  
  
   <div align="center">
   <a href="https://github.com/GuilhermeHRG">
