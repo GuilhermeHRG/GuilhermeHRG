@@ -25,3 +25,5 @@
 <img src="https://img.icons8.com/ios/50/000000/c.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 </div>
+![](https://komarev.com/ghpvc/?username=GuilhermeHRG&color=blueviolet&label=Profile+Views)
+
