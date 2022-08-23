@@ -3,7 +3,7 @@
   - Atualmente trabalho como auxiliar em um escritório de contabilidade
   - Almejo migrar para área de TI 
   - Apaixonado por tecnologia 
-  - Estudando: Python e Git
+  - Estudando: Python, Git, C e Java
   - Cursando: Sistemas de Informação
   
  
