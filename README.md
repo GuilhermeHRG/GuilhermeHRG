@@ -3,7 +3,7 @@
   - Atualmente trabalho como auxiliar em um escritório de contabilidade
   - Almejo migrar para área de TI 
   - Apaixonado por tecnologia 
-  - Estudando: Python, Git, C e Java
+  - Estudando: Python, C e Java
   - Cursando: Sistemas de Informação
   
  
@@ -25,6 +25,7 @@
 <div>
 <img src="https://img.icons8.com/ios/50/000000/c.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
+<img src="https://img.icons8.com/color/55/1A1A1A/java-coffee-cup-logo--v1.png"/>
 </div>
 
 
