@@ -23,7 +23,7 @@
 <img src="https://img.icons8.com/ios/50/000000/c.png"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/color/55/1A1A1A/java-coffee-cup-logo--v1.png"/>
-<img src="https://icons8.com.br/icon/RCBcI3eY5NOM/android"/>
+
 </div>
 </div>
 
