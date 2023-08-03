@@ -20,7 +20,7 @@
   
  <a href="https://anabsena.github.io/Portfolio_Gui/" target="_blank"><img src="https://www.flaticon.com/br/icone-gratis/portfolio-profissional_3476457?term=portfolio&page=1&position=21&origin=search&related_id=3476457" target="_blank"></a> 
 
-  [Snake animation](https://github.com/GuilhermeHRG/GuilhermeHRG/blob/output/github-contribution-grid-snake.svg) 
+  [Snake animation](https://github.com/GuilhermeHRG/GuilhermeHRG/blob/output/github-contribution-grid-snake.svg) </a>
   
 </div>
 <div>
