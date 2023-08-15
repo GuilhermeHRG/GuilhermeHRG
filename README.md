@@ -2,7 +2,7 @@
 
   - Atualmente trabalho como Suporte Técnico em automação comercial
   - Apaixonado por tecnologia 
-  - Estudando: Python, C, Java e Desenvolvimento Mobile para Android
+  - Estudando: Python, C, Java, Desenvolvimento Web e Desenvolvimento Mobile
   - Cursando: Sistemas de Informação
   
  
