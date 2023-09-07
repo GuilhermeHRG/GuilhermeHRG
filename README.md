@@ -20,9 +20,14 @@
   
 </div>
 <div>
-<img src="https://img.icons8.com/ios/50/000000/c.png"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/c-sharp-logo.png" alt="c-sharp-logo"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/html-5--v1.png" alt="html-5--v1"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/css3.png" alt="css3"/>
 <img src="https://img.icons8.com/color/48/000000/python--v1.png"/>
 <img src="https://img.icons8.com/color/55/1A1A1A/java-coffee-cup-logo--v1.png"/>
+<img width="48" height="48" src="https://img.icons8.com/color/48/kotlin.png" alt="kotlin"/>
+<img width="48" height="48" src="https://img.icons8.com/external-soft-fill-juicy-fish/60/external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish.png" alt="external-sql-servers-and-networks-soft-fill-soft-fill-juicy-fish"/>
+<img width="50" height="50" src="https://img.icons8.com/bubbles/50/figma.png" alt="figma"/>
 
 </div>
 </div>
