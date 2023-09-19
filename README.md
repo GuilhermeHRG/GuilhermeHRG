@@ -1,9 +1,9 @@
 # Guilherme Guelere
 
-  - Atualmente trabalho como Suporte Técnico em automação comercial
-  - Apaixonado por tecnologia 
-  - Estudando: Python, C, Java, Desenvolvimento Web e Desenvolvimento Mobile
-  - Cursando: Sistemas de Informação
+  - Atualmente trabalho como Suporte Técnico em automação comercial;
+  - Apaixonado por tecnologia;
+  - Estudando: Python, C, Java, Desenvolvimento Web e Desenvolvimento Mobile;
+  - Cursando: Sistemas de Informação;
   
  
   <div align="center">
