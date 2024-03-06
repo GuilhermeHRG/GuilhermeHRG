@@ -1,4 +1,3 @@
-Aqui está o seu perfil organizado:
 
 # Guilherme Guelere
 
