@@ -3,8 +3,8 @@
 
 - Atualmente trabalho como Suporte Técnico em automação comercial.
 - Apaixonado por tecnologia.
-- Estudando: Python, C, Java, Desenvolvimento Web e Desenvolvimento Mobile.
-- Cursando: Sistemas de Informação.
+- Estudando: Python, C, Java, React, JavaScript e TypeScript.
+- Cursando: 6 semestre de Sistemas de Informação .
 
 <div align="center">
   <p>MINHAS ESTATÍSTICAS:</p>
