@@ -2,10 +2,11 @@
 
 
 
-👨🏻‍💻 Technical Support in commercial automation.
+💼 Technical Support in commercial automation.
 
+👨🏻‍💻 Freelance web developer
 
-📘 Studying: React, React Native, JavaScript, TypeScript, CSS 3 , HTML 5 and TailwindCSS.
+📚 Studying: React, React Native, JavaScript, TypeScript, CSS 3 , HTML 5 and TailwindCSS.
 
 🎓 Currently in the 6th semester of Information Systems.
 
