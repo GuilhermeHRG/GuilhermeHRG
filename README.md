@@ -1,22 +1,29 @@
+<h1>Guilherme Guelere</h1>
 
-# Guilherme Guelere
+👨🏻‍💻 Technical Support in commercial automation.
 
-- Atualmente trabalho como Suporte Técnico em automação comercial.
-- Apaixonado por tecnologia.
-- Estudando: Python, C, Java, React, React Native, JavaScript, TypeScript e TailwindCSS
-- Cursando: 6 semestre de Sistemas de Informação .
+
+📘 Studying: React, React Native, JavaScript, TypeScript, CSS 3 , HTML 5 and TailwindCSS.
+
+🎓 Currently in the 6th semester of Information Systems.
 
 <div align="center">
-  <p>MINHAS ESTATÍSTICAS:</p>
-
+  <p>MY STATS:</p>
   <a href="https://github.com/GuilhermeHRG">
-    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHRG&show_icons=true&theme=default&include_all_commits=true&count_private=false"/>
-    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHRG&layout=compact&langs_count=7&theme=dark"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=GuilhermeHRG&show_icons=true&theme=transparent"/>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHRG&layout=compact&langs_count=7&theme=transparent"/>
   </a>
-
-<div>
-  <p>REDES SOCIAIS:</p>
-  <a href="https://www.instagram.com/guilherme.guelere/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/guilhermehrg" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <br>
+  <a href="https://git.io/streak-stats">
+    <img src="https://streak-stats.demolab.com?user=GuilhermeHRG&theme=transparent&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak" />
+  </a>
 </div>
-
+<div>
+  <p>SOCIAL MEDIA:</p>
+  <a href="https://www.instagram.com/guilherme.guelere/" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram">
+  </a>
+  <a href="https://www.linkedin.com/in/guilhermehrg" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</div>
