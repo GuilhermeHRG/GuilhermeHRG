@@ -2,9 +2,7 @@
 
 
 
-💼 Technical Support in commercial automation.
-
-👨🏻‍💻 Freelance web developer
+💼 Front Developer
 
 📚 Studying: React, React Native, JavaScript, TypeScript, CSS 3 , HTML 5 and TailwindCSS.
 
