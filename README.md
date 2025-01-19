@@ -15,9 +15,7 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuilhermeHRG&layout=compact&langs_count=7&theme=transparent"/>
   </a>
   <br>
-  <a href="https://git.io/streak-stats">
-    <img src="https://streak-stats.demolab.com?user=GuilhermeHRG&theme=transparent&locale=pt_BR&exclude_days=Sun%2CSat" alt="GitHub Streak" />
-  </a>
+ 
 </div>
 <div>
   <p>SOCIAL MEDIA:</p>
