@@ -6,7 +6,7 @@
 
 📚 Studying: React, React Native, JavaScript, TypeScript, CSS 3 , HTML 5 and TailwindCSS.
 
-🎓 Currently in the 6th semester of Information Systems.
+🎓 Currently in the 7th semester of Information Systems.
 
 <div align="center">
   <p>MY STATS:</p>
