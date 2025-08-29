@@ -2,7 +2,7 @@
 
 
 
-💼 Front Developer
+💼 Full Stack Developer
 
 📚 Studying: React, React Native, JavaScript, TypeScript, CSS 3 , HTML 5 and TailwindCSS.
 
