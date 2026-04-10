@@ -4,7 +4,7 @@
 
 💼 Full Stack Developer
 
-📚 Studying: React, React Native, JavaScript, TypeScript, CSS 3 , HTML 5 and TailwindCSS.
+📚 Studying: React, React Native, JavaScript, TypeScript, JAVA, NodeJS, CSS, HTML 5 and TailwindCSS.
 
 🎓 Bachelor of Information Systems.
 
